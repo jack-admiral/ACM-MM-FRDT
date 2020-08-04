@@ -3,11 +3,11 @@ Code repository for our paper entilted "Feature Reintegration over Differential 
 
 # Usage Instructions
 >Requirements
+    Ubuntu 18
+    PyTorch 1.3.1
+    CUDA 10.1
+    Cudnn 7.5.1
+    Python 3.7
+    Numpy 1.17.3
 
-    Windows 10
-    PyTorch 0.4.1
-    CUDA 9.0
-    Cudnn 7.6.0
-    Python 3.6.5
-    Numpy 1.16.4
 
