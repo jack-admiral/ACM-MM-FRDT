@@ -12,7 +12,6 @@ from fusion import Fusion
 from functions import imsave
 import argparse
 from trainer import Trainer
-from refiner import Refiner
 from utils.evaluateFM import get_FM
 import time
 
