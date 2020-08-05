@@ -27,6 +27,9 @@ Our train-augment dataset [**link**](https://pan.baidu.com/s/18nVAiOkTKczB_ZpIzB
 python demo.py
 ```
 
+# Comparsion
+![avatr](https://github.com/jack-admiral/ACM-MM-FRDT/blob/master/figures/comparsion.png)
+
 ### Contact Us
 If you have any questions, please contact us ( zhangyu4195@mail.dlut.edu.cn ).
 
