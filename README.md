@@ -5,7 +5,7 @@ Code repository for our paper entilted "Feature Reintegration over Differential 
 ![avatar](https://github.com/jack-admiral/ACM-MM-FRDT/blob/master/figures/overview.png)
 
 
-## Usage Instructions
+# Usage Instructions
 ### > Requirment
 
 + Ubuntu 18
@@ -17,7 +17,7 @@ Code repository for our paper entilted "Feature Reintegration over Differential 
 
 #### Train/Test
 + test     
-Download related dataset [**link**](https://github.com/jiwei0921/RGBD-SOD-datasets), and set the param '--phase' as "**test**" and '--param' as '**True**' in ```demo.py```. Meanwhile, you need to set **dataset path** and **checkpoint name** correctly.
+Download related dataset [**link**](https://github.com/jiwei0921/RGBD-SOD-datasets) and the pretrained model [**link**](https://pan.baidu.com/s/1EIfJ-8-RxrRrEneBLtTWYw) [fetch code **53x0**], and set the param '--phase' as "**test**" and '--param' as '**True**' in ```demo.py```. Meanwhile, you need to set **dataset path** and **checkpoint name** correctly.
 ```
 python demo.py
 ```
@@ -30,7 +30,10 @@ python demo.py
 # Comparsion
 ![avatr](https://github.com/jack-admiral/ACM-MM-FRDT/blob/master/figures/comparsion.png)
 
-### Contact Us
+# Results
+The results of our method in 7 datasets in [**here**](https://pan.baidu.com/s/1uCHCUDqpVBZ6Lg-0THfugA) [fetch code **t2bx**]
+
+# Contact Us
 If you have any questions, please contact us ( zhangyu4195@mail.dlut.edu.cn ).
 
 
