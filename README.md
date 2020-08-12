@@ -16,6 +16,7 @@ Code repository for our paper entilted "Feature Reintegration over Differential 
 + Numpy 1.17.3
 
 #### Train/Test
+Before training or testing, please make sure the size of all images is same.
 + test     
 Download related dataset [**link**](https://github.com/jiwei0921/RGBD-SOD-datasets) and the pretrained model [**link**](https://pan.baidu.com/s/1EIfJ-8-RxrRrEneBLtTWYw) [fetch code **53x0**], and set the param '--phase' as "**test**" and '--param' as '**True**' in ```demo.py```. Meanwhile, you need to set **dataset path** and **checkpoint name** correctly.
 ```
