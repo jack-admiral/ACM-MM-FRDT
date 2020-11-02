@@ -30,6 +30,7 @@ python demo.py
 
 # If you think this work is helpful, please cite
  @InProceedings{Miao_2020_ACM_MM, 
+ 
  author = {Miao {Zhang} and Yu {Zhang} and Yongri {Piao} and Beiqi {Hu} and Huchuan {Lu}},   
           title = {Feature Reintegration over Differential Treatment: A Top-down and Adaptive Fusion Network for RGB-D Salient Object Detection},     
           booktitle = "ACM Multimedia Conference 2020",     
