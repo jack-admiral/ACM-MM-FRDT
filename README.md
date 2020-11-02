@@ -28,6 +28,14 @@ Our train-augment dataset [**link**](https://pan.baidu.com/s/18nVAiOkTKczB_ZpIzB
 python demo.py
 ```
 
+# If you think this work is helpful, please cite
+ @InProceedings{Miao_2020_ACM_MM, 
+ author = {Miao {Zhang} and Yu {Zhang} and Yongri {Piao} and Beiqi {Hu} and Huchuan {Lu}},   
+          title = {Feature Reintegration over Differential Treatment: A Top-down and Adaptive Fusion Network for RGB-D Salient Object Detection},     
+          booktitle = "ACM Multimedia Conference 2020",     
+          year = {2020}     
+          } 
+
 # Comparsion
 ![avatr](https://github.com/jack-admiral/ACM-MM-FRDT/blob/master/figures/comparsion.png)
 
